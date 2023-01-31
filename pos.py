@@ -91,7 +91,7 @@ class Order:
     if self.is_senior == 'Y':
       discount = self.percentage(price ,20)
 
-    total_amount = price - discount;
+    total_amount = price - discount
 
     print('Total Amount: '+str(total_amount))
     self.payment = float(input('Enter Payment: '))
