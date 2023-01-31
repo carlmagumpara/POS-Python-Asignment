@@ -1,0 +1,97 @@
+[
+  {
+    "code": "B1",
+    "name": "Hamburger",
+    "price": 40
+  },
+  {
+    "code": "B2",
+    "name": "Cheeseburger",
+    "price": 50
+  },
+  {
+    "code": "B3",
+    "name": "Bacon Cheeseburger",
+    "price": 60
+  },
+  {
+    "code": "B4",
+    "name": "BBQ Bacon Burger",
+    "price": 60
+  },
+  {
+    "code": "B5",
+    "name": "Islander Burger",
+    "price": 65
+  },
+  {
+    "code": "S1",
+    "name": "Italian Spaghetti",
+    "price": 90
+  },
+  {
+    "code": "S2",
+    "name": "Carbonara",
+    "price": 100
+  },
+  {
+    "code": "S3",
+    "name": "Bacon and Mushroom",
+    "price": 100
+  },
+  {
+    "code": "S4",
+    "name": "Bolognese",
+    "price": 110
+  },
+  {
+    "code": "S5",
+    "name": "Crab Tomato Cream Sauce",
+    "price": 150
+  },  
+  {
+    "code": "C1",
+    "name": "1pc Fried Chicken",
+    "price": 60
+  },
+  {
+    "code": "C2",
+    "name": "2pcs Fried Chicken",
+    "price": 110
+  },
+  {
+    "code": "C3",
+    "name": "Chicken Fillet",
+    "price": 55
+  },
+  {
+    "code": "C4",
+    "name": "Chicken BBQ",
+    "price": 65
+  },
+  {
+    "code": "C5",
+    "name": "Chicken Nuggets",
+    "price": 50
+  },
+  {
+    "code": "D1",
+    "name": "Soda",
+    "price": 30
+  },
+  {
+    "code": "D2",
+    "name": "Juices",
+    "price": 35
+  },
+  {
+    "code": "D3",
+    "name": "Iced Tea",
+    "price": 25
+  },
+  {
+    "code": "D4",
+    "name": "Mineral Water",
+    "price": 20
+  }
+]
